@@ -1,0 +1,13 @@
+Pseudo code
+
+Read X
+Set sum to 0
+Set counter to 0
+
+While(counter < length of X)
+    If(X[counter] > 0)
+        Set sum to sum + X[counter]
+        Set counter to counter + 1
+    Else
+        Write sum
+Write sqr_sum
